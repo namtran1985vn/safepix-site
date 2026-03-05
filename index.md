@@ -1,3 +1,8 @@
+---
+title: SafePix Support
+permalink: /
+---
+
 # SafePix Support
 
 SafePix is a private AI photo enhancer that works entirely on your device.

@@ -1,0 +1,4 @@
+# Minimal Jekyll config so GitHub Pages builds successfully from branch.
+title: SafePix
+markdown: kramdown
+permalink: pretty

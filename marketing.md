@@ -1,3 +1,8 @@
+---
+title: SafePix
+permalink: /marketing/
+---
+
 # SafePix
 
 Private AI Photo Enhancer
