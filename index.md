@@ -9,6 +9,8 @@ permalink: /
 
 SafePix enhances your photos using advanced on-device AI. Restore details, upscale images, and sharpen faces—without ever uploading to the cloud. **Your photos stay private. Always.**
 
+![SafePix app]({{ site.baseurl }}/assets/app-screen.png)
+
 ---
 
 ## What SafePix Does
@@ -16,19 +18,29 @@ SafePix enhances your photos using advanced on-device AI. Restore details, upsca
 ### Restore blurry photos
 Turn soft or low-quality photos into clear, detailed images. SafePix restores missing detail and improves clarity while keeping results natural.
 
-![Restore blurry photos](assets/restore-blur.png)
+![Restore blurry photos]({{ site.baseurl }}/assets/restore-blur.png)
 
 ### AI upscale without quality loss
 Increase resolution while keeping natural detail. Safely upscale small or low-resolution images into larger, sharper photos.
 
 **Perfect for:** old photos, cropped images, zoomed shots, small images from messaging apps.
 
-![Upscale with quality](assets/upscale-quality.png)
+![Upscale with quality]({{ site.baseurl }}/assets/upscale-quality.png)
+
+### Zoom in without losing quality
+Upscale and zoom into your photos while keeping detail sharp—ideal for cropping and printing.
+
+![Zoom in without losing quality]({{ site.baseurl }}/assets/zoom-quality.png)
+
+### Bring old photos back to life
+Restore faded, scratched, or low-resolution memories so they look clear again.
+
+![Bring old photos back to life]({{ site.baseurl }}/assets/old-photos.png)
 
 ### Improve faces and portraits
 Enhance facial details while keeping natural skin texture. Eyes, hair, and features become clearer without looking artificial.
 
-![Restore face details](assets/restore-faces.png)
+![Restore face details]({{ site.baseurl }}/assets/restore-faces.png)
 
 ---
 
@@ -39,12 +51,12 @@ SafePix runs on your device using Apple’s Core ML. No internet needed.
 
 Enhance photos on airplanes, while traveling, in remote areas—anywhere.
 
-![Works in airplane mode](assets/offline.png)
+![Works in airplane mode]({{ site.baseurl }}/assets/offline.png)
 
 ### Private by design
 Your photos never leave your device. No cloud processing, no data collection, no uploads. Your memories stay private.
 
-![Private by design](assets/private.png)
+![Private by design]({{ site.baseurl }}/assets/private.png)
 
 ### Simple and fast
 1. Choose a photo  
@@ -53,7 +65,7 @@ Your photos never leave your device. No cloud processing, no data collection, no
 
 Enhance photos in seconds.
 
-![Enhance in seconds](assets/fast.png)
+![Enhance in seconds]({{ site.baseurl }}/assets/fast.png)
 
 ---
 

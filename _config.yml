@@ -1,4 +1,7 @@
 # Minimal Jekyll config so GitHub Pages builds successfully from branch.
+# baseurl required for project pages (username.github.io/repo-name/)
+baseurl: "/safepix-site"
+url: "https://namtran1985vn.github.io"
 title: SafePix
 markdown: kramdown
 permalink: pretty
