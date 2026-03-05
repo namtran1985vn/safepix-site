@@ -9,7 +9,7 @@ SafePix is a private AI photo enhancer that works entirely on your device.
 
 ## Contact
 
-Email: support@safepix.app
+Email: namtran1985vn@gmail.com
 
 ## FAQ
 

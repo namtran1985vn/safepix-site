@@ -32,4 +32,4 @@ SafePix can work completely offline.
 
 For privacy questions contact:
 
-support@safepix.app
+namtran1985vn@gmail.com
