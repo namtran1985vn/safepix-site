@@ -47,4 +47,4 @@ This privacy policy may be updated in the future. Any changes will be posted on 
 
 If you have any questions about this Privacy Policy, contact:
 
-namtran1985vn@gmail.com
+safepix.ai@outlook.com

@@ -97,6 +97,6 @@ No. We do not collect or store personal data or photos.
 
 ## Contact
 
-**Email:** namtran1985vn@gmail.com  
+**Email:** safepix.ai@outlook.com  
 
 For support, feature questions, or feedback, we’re happy to help.
